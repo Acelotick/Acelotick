@@ -10,6 +10,4 @@ Layout: ![HTML Badge](https://img.shields.io/badge/HTML-Layout-black?style=flat&
 ![JS Badge](https://img.shields.io/badge/JS-Layout-black?style=flat&logo=javascript&logoColor=white&labelColor=yellow)
 
 # 💼 About me
-- Name is Vitaliy Karpov
-- 15 Years old
 - Does not like stupid people
